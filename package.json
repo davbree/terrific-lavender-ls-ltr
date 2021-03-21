@@ -10,7 +10,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "@stackbit/gatsby-plugin-menus": "0.0.4",
+    "@stackbit/gatsby-plugin-menus": "0.0.4"
     "chokidar": "^3.4.0",
     "classnames": "^2.2.6",
     "fs-extra": "^7.0.1",
